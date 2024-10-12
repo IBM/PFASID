@@ -1,5 +1,0 @@
-include VERSION
-include requirements.txt
-include echa/ECHA_2021_struct_subs.json
-include PFAS_Classifier/echa/ECHA_2021_struct_subs.json
-global-include py.typed

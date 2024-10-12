@@ -1,8 +1,0 @@
-.DS_Store
-PipFile
-PipFile.lock
-__pycache__
-PFAS_Classifier/__pycache__
-.vscode
-.env
-

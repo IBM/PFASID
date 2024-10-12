@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: PFAS_Classifier
-Version: 0.0.1
-Requires-Dist: rdkit-pypi
-Requires-Dist: setuptools

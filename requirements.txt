@@ -1,3 +1,0 @@
-rdkit-pypi
-setuptools
-numpy==1.26.4
